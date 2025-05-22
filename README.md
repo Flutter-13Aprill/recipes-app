@@ -13,8 +13,8 @@ Please refer to the design mockup here:
 ## 🔧 Required Functionality
 
 ### Authentication
-- ✅ **Login** screen and logic
-- ✅ **Signup** screen and logic
+- ✅ **Login** screen 
+- ✅ **Signup** screen 
 
 ### CRUD Operations
 
