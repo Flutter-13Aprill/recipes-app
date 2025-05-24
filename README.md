@@ -1,54 +1,60 @@
-# 🍽️ Flutter Recipes App (with BLoC)
+# s Recipe App
 
-This project is a Flutter application built using the BLoC state management pattern. The goal is to replicate and implement the design and functionality provided in the Figma design for a **Recipes App**.
-
-## 🎨 Figma Design
-
-Please refer to the design mockup here:
-
-🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
+A minimal and modern recipe application built using **Flutter** and **BLoC** for state management.  
+Users can browse recipes, like them, and upload their own – all wrapped in a beautiful UI matching the provided Figma design.
 
 ---
 
-## 🔧 Required Functionality
+## = Features
 
-### Authentication
-- ✅ **Login** screen 
-- ✅ **Signup** screen 
+### = Authentication
+- Login screen
+- Signup screen
 
-### CRUD Operations
+### = Recipe Management (CRUD)
+- **Create**: Upload a recipe with image and description
+- **Read**: View all recipes on the Home screen
+- **Like**: Favorite any recipe (heart button)
+- **Read Liked**: View liked recipes in the Profile tab
+- **Unlike**: Tap the heart again to remove from favorites
 
-#### Recipe Management
-- ✅ **Create**: Upload a new recipe with image and details.
-- ✅ **Read**: Display a list of all recipes on the Home page.
-- ✅ **Like (Create)**: Ability to like a recipe.
-- ✅ **Liked Recipes (Read)**: Display a list of liked recipes on the *Liked Page*.
-- ✅ **Unlike (Delete)**: Allow the user to remove liked recipes.
+###  Design
+- Fully matches the provided Figma file
+- Modern UI with responsive layout
+- Bottom navigation bar + FAB
 
-
-
----
-
-## 📱 Interface Requirements
-
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
+### = State Management
+- Powered by `flutter_bloc` for clean separation of UI & logic
 
 ---
 
-## 💻 GitHub Submission Guidelines
+##  Screenshots
 
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
+###
+<img src="recipe/assets/screenshot/p1.png" width="200"/>  
+<img src="recipe/assets/screenshot/p2.png" width="200"/>  
+<img src="recipe/assets/screenshot/p3.png" width="200"/>  
+<img src="recipe/assets/screenshot/p4.png" width="200"/>  
+<img src="recipe/assets/screenshot/p5.png" width="200"/>  
+<img src="recipe/assets/screenshot/p6.png" width="200"/>  
+<img src="recipe/assets/screenshot/p7.png" width="200"/>  
+<img src="recipe/assets/screenshot/p8.png" width="200"/>  
+<img src="recipe/assets/screenshot/p9.png" width="200"/>  
+<img src="recipe/assets/screenshot/p10.png" width="200"/>  
 
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
+##  Getting Started
 
----
+### 1. Clone the repository
 
-## 🚀 Good Luck & Happy Coding!
+```bash
+git clone https://github.com/your-username/recipe-app.git
+cd recipe-app
+2. Install dependencies
+flutter pub get
+3. Run the app
+flutter run
 
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
 
+Author :
+Manaalq
+github: Manaalq
