@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - widgets_easier (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - widgets_easier (from `.symlinks/plugins/widgets_easier/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  widgets_easier:
+    :path: ".symlinks/plugins/widgets_easier/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  widgets_easier: 55f1995f4f7437f96cf7549b34faa650059253f9
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
