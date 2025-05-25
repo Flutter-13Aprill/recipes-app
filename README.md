@@ -1,54 +1,57 @@
-# 🍽️ Flutter Recipes App (with BLoC)
+![Tuwaiq Academy Logo](assets/README/tuwaiq_academy_logo.png)
 
-This project is a Flutter application built using the BLoC state management pattern. The goal is to replicate and implement the design and functionality provided in the Figma design for a **Recipes App**.
-
-## 🎨 Figma Design
-
-Please refer to the design mockup here:
-
-🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
-
----
-
-## 🔧 Required Functionality
-
-### Authentication
-- ✅ **Login** screen 
-- ✅ **Signup** screen 
-
-### CRUD Operations
-
-#### Recipe Management
-- ✅ **Create**: Upload a new recipe with image and details.
-- ✅ **Read**: Display a list of all recipes on the Home page.
-- ✅ **Like (Create)**: Ability to like a recipe.
-- ✅ **Liked Recipes (Read)**: Display a list of liked recipes on the *Liked Page*.
-- ✅ **Unlike (Delete)**: Allow the user to remove liked recipes.
+# recipes-app
+This Flutter Recipes App is built primarily to practice and demonstrate mastery of the BLoC state management pattern. It effectively separates business logic from UI, delivering clean, maintainable, and scalable code. The app closely follows the Figma design with smooth navigation, showcasing solid Flutter development skills and a strong foundation for future enhancements.
 
 
 
----
+# Getting Started
+### Prerequisites
 
-## 📱 Interface Requirements
+Flutter SDK 
 
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
+A code editor (such as VS Code or Android Studio)
 
----
+### Installation
+1. Clone the repository:
 
-## 💻 GitHub Submission Guidelines
+   ```
+   git clone https://github.com/2Mhd6/GPA-Calculator.git
+   ```
 
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
+2. Navigate to the project directory:
 
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
+   ```
+   cd GPA-Calculator
+   ```
+   
+3. Install dependencies:
 
----
+   ```
+   flutter pub get
+   ```
 
-## 🚀 Good Luck & Happy Coding!
+4. Run the app:
 
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
+   ```
+   flutter run
+   ```
+
+
+## Output
+[**Check out the output**](https://drive.google.com/file/d/1pwkrBbespvklZlH6HfZi7JHD9nSJ9KfY/view?usp=sharing)
+
+
+
+## Languages, Frameworks & Packages
+
+**Dart**
+
+**Flutter**
+
+[**flutter_bloc**](https://pub.dev/packages/flutter_bloc)
+
+## Created By
+
+[**Mohammed S. Alshammari**](https://www.linkedin.com/in/mohammedsalshammari/)
 
