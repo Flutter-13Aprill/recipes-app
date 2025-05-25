@@ -16,13 +16,13 @@ A code editor (such as VS Code or Android Studio)
 1. Clone the repository:
 
    ```
-   git clone https://github.com/2Mhd6/GPA-Calculator.git
+   git clone https:/https://github.com/2Mhd6/recipes-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd GPA-Calculator
+   cd recipes-app
    ```
    
 3. Install dependencies:
