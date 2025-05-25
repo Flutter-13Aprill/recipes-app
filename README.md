@@ -9,20 +9,29 @@ Please refer to the design mockup here:
 🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
 
 ---
+<h3>📱 App Preview</h3>
+<p>This preview showcases the app's sign-in flow, password validation, and navigation feedback.</p>
 
-## Screen Shots
+<p float="left">
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.05.17.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.05.31.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.05.33.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.07.00.png" width="24%" />
+</p>
 
-![Screen 1](Simulator%20Screenshot%202025-05-25%20at%2007.08.31.png)
-![Screen 2](Simulator%20Screenshot%202025-05-25%20at%2007.08.24.png)
-![Screen 3](Simulator%20Screenshot%202025-05-25%20at%2007.08.21.png)
-![Screen 4](Simulator%20Screenshot%202025-05-25%20at%2007.07.25.png)
-![Screen 5](Simulator%20Screenshot%202025-05-25%20at%2007.07.21.png)
-![Screen 6](Simulator%20Screenshot%202025-05-25%20at%2007.07.14.png)
-![Screen 7](Simulator%20Screenshot%202025-05-25%20at%2007.07.09.png)
-![Screen 8](Simulator%20Screenshot%202025-05-25%20at%2007.07.00.png)
-![Screen 9](Simulator%20Screenshot%202025-05-25%20at%2007.05.33.png)
-![Screen 10](Simulator%20Screenshot%202025-05-25%20at%2007.05.31.png)
-![Screen 11](Simulator%20Screenshot%202025-05-25%20at%2007.05.17.png)
+<p float="left">
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.07.09.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.07.14.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.07.21.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.07.25.png" width="24%" />
+</p>
+
+<p float="left">
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.08.21.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.08.24.png" width="24%" />
+  <img src="Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-25%20at%2007.08.31.png" width="24%" />
+</p>
+
 
 
 
