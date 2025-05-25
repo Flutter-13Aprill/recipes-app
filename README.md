@@ -12,23 +12,18 @@ Please refer to the design mockup here:
 
 ## Screen Shots
 
-<p float="left">
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.08.31.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.08.24.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.08.21.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.07.25.png" width="22%" />
-</p>
-<p float="left">
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.07.21.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.07.14.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.07.09.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.07.00.png" width="22%" />
-</p>
-<p float="left">
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.05.33.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.05.31.png" width="22%" />
-  <img src="Simulator%20Screenshot%202025-05-25%20at%2007.05.17.png" width="22%" />
-</p>
+![Screen 1](Simulator%20Screenshot%202025-05-25%20at%2007.08.31.png)
+![Screen 2](Simulator%20Screenshot%202025-05-25%20at%2007.08.24.png)
+![Screen 3](Simulator%20Screenshot%202025-05-25%20at%2007.08.21.png)
+![Screen 4](Simulator%20Screenshot%202025-05-25%20at%2007.07.25.png)
+![Screen 5](Simulator%20Screenshot%202025-05-25%20at%2007.07.21.png)
+![Screen 6](Simulator%20Screenshot%202025-05-25%20at%2007.07.14.png)
+![Screen 7](Simulator%20Screenshot%202025-05-25%20at%2007.07.09.png)
+![Screen 8](Simulator%20Screenshot%202025-05-25%20at%2007.07.00.png)
+![Screen 9](Simulator%20Screenshot%202025-05-25%20at%2007.05.33.png)
+![Screen 10](Simulator%20Screenshot%202025-05-25%20at%2007.05.31.png)
+![Screen 11](Simulator%20Screenshot%202025-05-25%20at%2007.05.17.png)
+
 
 
 ## 🔧 Required Functionality
