@@ -1,54 +1,33 @@
-# 🍽️ Flutter Recipes App (with BLoC)
+# 📸 Screenshots
 
-This project is a Flutter application built using the BLoC state management pattern. The goal is to replicate and implement the design and functionality provided in the Figma design for a **Recipes App**.
+![Flutter](./ui.gif)
 
-## 🎨 Figma Design
+# 🍽️ Flutter Recipes App (BLoC + )
 
-Please refer to the design mockup here:
+A production-ready recipe app with authentication, CRUD operations, and real-time likes, built with Flutter, BLoC, and .
 
-🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
+# 🔥 Key Features
 
----
+Auth: Email/password login/signup ( Auth).
 
-## 🔧 Required Functionality
+Recipes CRUD:
 
-### Authentication
-- ✅ **Login** screen 
-- ✅ **Signup** screen 
+Create recipes with images.
 
-### CRUD Operations
+Like/unlike recipes (Firestore real-time updates).
 
-#### Recipe Management
-- ✅ **Create**: Upload a new recipe with image and details.
-- ✅ **Read**: Display a list of all recipes on the Home page.
-- ✅ **Like (Create)**: Ability to like a recipe.
-- ✅ **Liked Recipes (Read)**: Display a list of liked recipes on the *Liked Page*.
-- ✅ **Unlike (Delete)**: Allow the user to remove liked recipes.
+View liked recipes in a dedicated screen.
 
+State Management: BLoC for predictable state handling.
 
+UI: Pixel-perfect Figma implementation with animations.
 
----
+# 🛠 Tech Stack
+Frontend: Flutter (Null Safety, Responsive UI).
 
-## 📱 Interface Requirements
+Backend:  (Auth, Firestore, Storage).
 
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
+State: BLoC .
 
----
-
-## 💻 GitHub Submission Guidelines
-
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
-
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
-
----
-
-## 🚀 Good Luck & Happy Coding!
-
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
+Tools: Dio, Image Picker, Shimmer, etc.
 
