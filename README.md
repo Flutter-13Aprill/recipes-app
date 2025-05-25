@@ -51,6 +51,17 @@ A code editor (such as VS Code or Android Studio)
 
 [**flutter_bloc**](https://pub.dev/packages/flutter_bloc)
 
+[**google_fonts**](https://pub.dev/packages/google_fonts)
+
+[**flutter_svg**](https://pub.dev/packages/flutter_svg)
+
+[**blur**](https://pub.dev/packages/blur)
+
+[**dotted_border**](https://pub.dev/packages/dotted_border)
+
+[**image_picker**](https://pub.dev/packages/image_picker)
+
+
 ## Created By
 
 [**Mohammed S. Alshammari**](https://www.linkedin.com/in/mohammedsalshammari/)
