@@ -16,7 +16,7 @@ Please refer to the design mockup here:
 ### Output 📱
 
 Check out the output demo or screenshots here:
-[📱 Output Demo Link](https://drive.google.com/your-output-link)
+[📱 Output Demo Link](https://drive.google.com/file/d/17VJ2IrNaZooZ5F-2JS57nEfZhR1tU6VP/view?usp=sharing)
 
 ---
 
