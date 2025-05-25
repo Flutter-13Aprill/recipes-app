@@ -1,54 +1,77 @@
-# 🍽️ Flutter Recipes App (with BLoC)
+![image alt](https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png)
 
-This project is a Flutter application built using the BLoC state management pattern. The goal is to replicate and implement the design and functionality provided in the Figma design for a **Recipes App**.
 
-## 🎨 Figma Design
+# 📘  Recipes App — Overview
 
-Please refer to the design mockup here:
 
-🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
-
----
-
-## 🔧 Required Functionality
-
-### Authentication
-- ✅ **Login** screen 
-- ✅ **Signup** screen 
-
-### CRUD Operations
-
-#### Recipe Management
-- ✅ **Create**: Upload a new recipe with image and details.
-- ✅ **Read**: Display a list of all recipes on the Home page.
-- ✅ **Like (Create)**: Ability to like a recipe.
-- ✅ **Liked Recipes (Read)**: Display a list of liked recipes on the *Liked Page*.
-- ✅ **Unlike (Delete)**: Allow the user to remove liked recipes.
+A Flutter-based app designed for cooking lovers, enabling users to discover new recipes, share their own dishes, and personalize their profiles—all through a sleek and engaging user interface.
 
 
 
----
+## 📷 Screenshots 
 
-## 📱 Interface Requirements
+![image alt](https://github.com/azizotbb/recipes-app/blob/58fa80b6c408a7835eab3b5a00793e243881a49b/img1.jpg)
 
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
 
----
 
-## 💻 GitHub Submission Guidelines
+## 🎥 Gif
 
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
+![image alt](https://github.com/azizotbb/recipes-app/blob/58fa80b6c408a7835eab3b5a00793e243881a49b/gif1.gif)
 
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
+![image alt](https://github.com/azizotbb/recipes-app/blob/a6da9e4e492a6d24f565819edbabaee98cfab779/gif2.gif)
 
----
 
-## 🚀 Good Luck & Happy Coding!
 
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
 
+
+
+
+
+
+##  🎨 Figma UI:
+https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App--Community-?node-id=156-0&p=f&t=qg5b33WNdlxrllLV-0
+
+
+
+## Tech Stack
+
+- Flutter (latest version) 
+- Dart
+
+
+
+## Installation
+
+1.  Clone the repository:
+
+    `git@github.com:azizotbb/recipes-app.git` 
+
+2.  Navigate to the project folder:
+
+    `cd recipes_app` 
+
+3.  Install dependencies:
+
+    `flutter pub get` 
+
+4.  Run the app:
+
+    `flutter run`
+
+
+
+
+## Folder Structure
+
+    lib/
+    ├── data/
+    ├── screen/
+    ├── theme/
+    ├── widget/
+    └── main.dart
+    
+
+    
+## ✨ Author
+
+- AbdulAziz Alotaibi
