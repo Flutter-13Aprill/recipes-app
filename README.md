@@ -5,7 +5,8 @@ This project is a **Recipes App** that replicates the design provided in the att
 ---
 ### 🔍 Project Preview
 
-[🎥 Watch Project Preview](./projectPreview.mov)
+
+[🎥 Watch Project Preview on Google Drive](https://drive.google.com/file/d/1TtPa_EXgFg8rDizPr3fcxZO-vjTn303e/view?usp=sharing)
 
 
 ---
