@@ -53,26 +53,17 @@ Please refer to the design mockup here:
 
 ---
 
-## 📱 Interface Requirements
+## 🚀 Getting Started
 
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
+Follow these steps to run the project locally:
 
----
+1. Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+2. Install Dependencies
+flutter pub get
+3. Run the App
+flutter run
+💡 Make sure you have a connected device or emulator running.
 
-## 💻 GitHub Submission Guidelines
-
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
-
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
-
----
-
-## 🚀 Good Luck & Happy Coding!
-
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
 
