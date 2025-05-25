@@ -25,7 +25,7 @@ An app where the chef can belong and share their experience.
 - ♥️ **Like Posts** – you can like the recpies that you tried to make them again later !!!
 - 🔎 **Search** – You can look for your favorite food or recpie.
 - 📚 **Filter** – You can filter by catagories to make it easier for you so you can cook while you are looking.
-- 🖼️ **** – You have your own profile and the others can follow you and you can follow them too and share with them your amazing recpies !!!!.
+- 🖼️ **Profile page** – You have your own profile and the others can follow you and you can follow them too and share with them your amazing recpies !!!!.
 - 📱 **Splash Screen** – A masterpiece beautiful splash screen that you want to watch while cooking.
 - 🫶 **Amazing UI** – The most masterpiece that created with passion.
 
@@ -33,7 +33,7 @@ An app where the chef can belong and share their experience.
 
 ## 📦 Packages
 
- [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+ [Flutter Bloc](https://pub.dev/packages/flutter_bloc)<br>
  [Dotted Border](https://pub.dev/packages/dotted_border)
  
 
