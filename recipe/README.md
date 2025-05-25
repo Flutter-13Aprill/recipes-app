@@ -1,16 +1,32 @@
-# recipe
+## Recipe App UI
+A clean and simple recipe app UI built with Flutter, helping users browse and save their favorite recipes with ease.
+![Log in Page (6)](https://github.com/user-attachments/assets/4267f65a-b7d5-41b8-a41b-60a250a9a03e)
 
-A new Flutter project.
 
-## Getting Started
+## Features
+🕒 Quick browsing – Find and explore recipes.  
+⭐ Save favorites – Keep your preferred recipes handy.  
+📤 Easy upload – Add new recipes with images and descriptions.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter (latest version)  
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+- git clone https://github.com/shtwaijri/recipes-app.git
+- cd recipes-app
+- flutter pub get
+- flutter run
+
+
+##   🧑‍💻 How to Use
+
+- Launch the app.
+- Browse recipes and tap to see details.
+- Upload your own recipes with image and description.
+
+
+## 👩‍💻 Author
+Shatha Altwaijri
