@@ -100,6 +100,7 @@ lib/
 
 -----
 # screenshots:      
+![dark](https://github.com/user-attachments/assets/3e02a9a0-1290-4407-b53f-bba9fa2120da)
 
 ![Screenshot 1](assets/screenshots/screenshot/Screenshot1.jpg)
 ![Screenshot 2](assets/screenshots/screenshot/Screenshot2.jpg)
