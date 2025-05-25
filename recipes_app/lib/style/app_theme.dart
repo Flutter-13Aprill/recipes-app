@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:recipes_app/style/app_colors.dart';
 
+// Defines the app’s light theme including background color, primary color, and text styles for consistent visual appearance.
 class AppTheme {
   static ThemeData lightTheme = ThemeData(
     scaffoldBackgroundColor: Colors.white,

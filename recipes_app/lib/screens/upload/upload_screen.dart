@@ -11,6 +11,7 @@ import 'package:recipes_app/widgets/custom_alert_dialog_widget.dart';
 
 class UploadScreen extends StatelessWidget {
   const UploadScreen({super.key});
+  // UploadScreen widget allows users to pick an image, enter food details (name, description), select cooking duration via a slider, and submit the data using a form managed by Bloc for state management, with validation and user feedback.
 
   @override
   Widget build(BuildContext context) {

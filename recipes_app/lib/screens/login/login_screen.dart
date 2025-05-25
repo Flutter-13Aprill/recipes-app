@@ -12,6 +12,11 @@ import 'package:recipes_app/widgets/welcome_text_widget.dart';
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
 
+  // LoginScreen provides a login form with email/phone and password inputs,
+  // including validation for email format and phone number pattern.
+  // Uses Bloc for state management and form handling.
+  // On successful validation, navigates to the main BottomNavbarScreen.
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(

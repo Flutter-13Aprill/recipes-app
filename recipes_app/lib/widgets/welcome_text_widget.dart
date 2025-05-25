@@ -10,6 +10,8 @@ class WelcomeTextWidget extends StatelessWidget {
     required this.subTitle,
   });
 
+  // A simple widget that displays a welcome title and subtitle,
+  // typically used on authentication or introduction screens.
   @override
   Widget build(BuildContext context) {
     return Column(

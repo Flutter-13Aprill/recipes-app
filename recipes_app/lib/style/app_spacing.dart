@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Provides predefined vertical and horizontal spacing widgets to maintain consistent layout padding and margins throughout the app.
 class AppSpacing {
   static const SizedBox h8 = SizedBox(height: 8);
   static const SizedBox h16 = SizedBox(height: 16);

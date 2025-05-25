@@ -5,7 +5,7 @@ import 'package:recipes_app/utils/extensions/screen/screen_size.dart';
 
 class IntroScreen extends StatelessWidget {
   const IntroScreen({super.key});
-
+  // IntroScreen displays a welcoming onboarding image and text and with a button that navigates to the LoginScreen.
   @override
   Widget build(BuildContext context) {
     return Scaffold(

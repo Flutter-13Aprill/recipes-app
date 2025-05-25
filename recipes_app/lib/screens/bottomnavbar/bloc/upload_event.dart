@@ -15,6 +15,8 @@ class SavedRecipeEvent extends UploadEvent {
   });
 }
 
+// Defines all events that can be dispatched to the UploadBloc,
+// such as saving a recipe, loading dummy data, or toggling favorite status.
 class SliderChangedEvent extends UploadEvent {
   final double minutes;
 

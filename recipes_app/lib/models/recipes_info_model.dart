@@ -1,3 +1,5 @@
+// Model class representing recipe information, including details like name, description, image, preparation time, favorite status, ownership, and user profile info.
+
 class RecipesInfoModel {
   final String name;
   final String desc;

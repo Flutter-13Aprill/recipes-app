@@ -20,7 +20,8 @@ class CustomTextFieldWidget extends StatelessWidget {
     this.obscureText = false,
     this.onChanged,
   });
-
+  // A reusable custom text field widget that supports icons, validation,
+  // password hiding, and custom styles. Useful for forms with consistent UI.
   @override
   Widget build(BuildContext context) {
     return TextFormField(

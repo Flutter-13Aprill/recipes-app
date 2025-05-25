@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:recipes_app/style/app_colors.dart';
 import 'package:recipes_app/utils/extensions/screen/screen_size.dart';
 
+// Defines reusable button styles with different sizes but consistent primary color, adapting to screen dimensions for responsive design.
 class AppButtons {
   static ButtonStyle primary(BuildContext context) {
     return ButtonStyle(

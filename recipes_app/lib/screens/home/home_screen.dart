@@ -9,6 +9,10 @@ import 'package:recipes_app/style/app_spacing.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
+  // This Flutter widget defines the main HomeScreen for a recipes app.
+  // Uses Bloc pattern to manage state for home and upload features.
+  // Includes a search bar, category filters, and a tabbed interface to switch views.
+  // Recipes are shown in a grid with images, user info, and favorite toggling.
 
   @override
   Widget build(BuildContext context) {

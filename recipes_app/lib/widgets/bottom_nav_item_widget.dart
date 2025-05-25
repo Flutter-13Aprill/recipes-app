@@ -16,7 +16,9 @@ class BottomNavItemWidget extends StatelessWidget {
     required this.selectedIndex,
     required this.onTap,
   });
-
+  // A custom widget for a single item in the bottom navigation bar.
+  // It displays an icon and a label, and highlights itself when selected.
+  // Tapping the item triggers the provided callback with the item's index.
   @override
   Widget build(BuildContext context) {
     final isSelected = selectedIndex == index;

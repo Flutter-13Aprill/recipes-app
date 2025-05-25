@@ -9,6 +9,9 @@ import 'package:recipes_app/widgets/welcome_text_widget.dart';
 
 class SignupScreen extends StatelessWidget {
   const SignupScreen({super.key});
+  // SignupScreen lets users register with email/phone and password.
+  // It validates input and shows password requirements dynamically.
+  // On successful validation, it navigates to the main app screen.
 
   @override
   Widget build(BuildContext context) {

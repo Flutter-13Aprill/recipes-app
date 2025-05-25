@@ -5,6 +5,9 @@ import 'package:meta/meta.dart';
 part 'signup_event.dart';
 part 'signup_state.dart';
 
+// Bloc to manage signup form state and validation.
+// Tracks password input and emits validation results (minimum length and number presence).
+
 class SignupBloc extends Bloc<SignupEvent, SignupState> {
   final formKey = GlobalKey<FormState>();
   TextEditingController emailContrller = TextEditingController();

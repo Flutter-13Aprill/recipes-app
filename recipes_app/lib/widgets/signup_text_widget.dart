@@ -5,7 +5,8 @@ import 'package:recipes_app/style/app_colors.dart';
 
 class SignupTextWidget extends StatelessWidget {
   const SignupTextWidget({super.key});
-
+  // A widget that displays a "Don't have an account? Sign up" text,
+  // where "Sign up" is tappable and navigates to the signup screen.
   @override
   Widget build(BuildContext context) {
     return Text.rich(

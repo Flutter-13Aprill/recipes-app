@@ -12,6 +12,11 @@ import 'package:recipes_app/style/app_spacing.dart';
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
 
+  // ProfileScreen displays user profile info with avatar, stats, and a follow button.
+  // It uses Bloc to manage profile state and shows two tabs:
+  // 'Recipes' (user's own) and 'Liked' (favorited recipes).
+  // Recipes are displayed in a grid with image, name, description, and favorite toggle.
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(

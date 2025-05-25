@@ -4,7 +4,9 @@ import 'package:recipes_app/style/app_colors.dart';
 
 class CustomAlertDialogWidget extends StatelessWidget {
   const CustomAlertDialogWidget({super.key});
-
+  // A custom alert dialog widget shown after a successful recipe upload.
+  // Displays a celebratory emoji, success message, description, and a button
+  // to return to the home screen.
   @override
   Widget build(BuildContext context) {
     return AlertDialog(

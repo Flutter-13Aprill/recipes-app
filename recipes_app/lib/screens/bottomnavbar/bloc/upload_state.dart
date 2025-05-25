@@ -4,6 +4,7 @@ part of 'upload_bloc.dart';
 sealed class UploadState {}
 
 final class UploadInitial extends UploadState {}
+// SuccessState state containing the list of saved recipes and the selected minutes.
 
 final class SuccessState extends UploadState {
   final List<RecipesInfoModel> savedRecipes;

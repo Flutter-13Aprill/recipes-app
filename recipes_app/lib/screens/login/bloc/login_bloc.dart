@@ -5,6 +5,9 @@ import 'package:meta/meta.dart';
 part 'login_event.dart';
 part 'login_state.dart';
 
+// Bloc to manage login form state and events.
+// Includes form key and text controllers for email and password inputs.
+
 class LoginBloc extends Bloc<LoginEvent, LoginState> {
   final formKey = GlobalKey<FormState>();
   TextEditingController emailContrller = TextEditingController();

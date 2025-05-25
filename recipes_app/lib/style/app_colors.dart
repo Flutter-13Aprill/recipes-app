@@ -1,5 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
+// Defines a set of constant colors used throughout the app for consistent theming and styling.
+
 class AppColors {
   static const Color primary = Color(0xff2E3E5C);
   static const Color lightrimary = Color(0xff3E5481);

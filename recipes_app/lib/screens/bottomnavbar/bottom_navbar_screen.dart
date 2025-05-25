@@ -12,6 +12,7 @@ import 'package:recipes_app/widgets/bottom_nav_item_widget.dart';
 
 class BottomNavbarScreen extends StatelessWidget {
   final int initialIndex;
+  // This widget implements a bottom navigation bar with multiple pages and a centered floating action button for scanning, using Bloc pattern to manage navigation state and shared upload functionality across screens.
 
   BottomNavbarScreen({super.key, this.initialIndex = 0});
   final uploadBloc = UploadBloc();

@@ -10,6 +10,9 @@ import 'package:recipes_app/models/recipes_info_model.dart';
 part 'upload_event.dart';
 part 'upload_state.dart';
 
+// Bloc responsible for managing recipe upload and related UI state.
+// It handles loading dummy data, saving recipes with images,
+// and toggling favorite status for individual recipes.
 class UploadBloc extends Bloc<UploadEvent, UploadState> {
   final List<RecipesInfoModel> dummyRecipes = [
     RecipesInfoModel(
