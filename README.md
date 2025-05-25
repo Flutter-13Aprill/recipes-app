@@ -1,54 +1,94 @@
 # 🍽️ Flutter Recipes App (with BLoC)
 
-This project is a Flutter application built using the BLoC state management pattern. The goal is to replicate and implement the design and functionality provided in the Figma design for a **Recipes App**.
+## Project Description
+This Flutter application is designed for users to explore, upload, and manage recipes. The app features a user-friendly interface that allows users to:
 
-## 🎨 Figma Design
+### Key Features
+Onboarding Screen: Introduces users to the app and guides them through the initial setup.
 
-Please refer to the design mockup here:
+User Authentication:
 
-🔗 [Figma Design - Recipes App](https://www.figma.com/design/NLdRsBpwJgHfSmXJq2i4a1/Recipes-App-(Community)?node-id=156-0&p=f&t=R5WBS1mIYbJyNTdW-0)
+Sign Up: Users can create accounts.
+Login: Existing users can log in to access their profiles.
+Profile Management:
 
----
+Users can view and edit their profiles, including profile image and personal information.
+Displays user statistics such as the number of recipes created, followers, and following.
+Recipe Management:
 
-## 🔧 Required Functionality
+Users can upload new recipes, including adding images, descriptions, and cooking durations.
+Recipes can be liked and categorized.
+Home Screen:
 
-### Authentication
-- ✅ **Login** screen 
-- ✅ **Signup** screen 
+Features a search bar for easy navigation.
+Displays a grid of recipes, allowing users to view details and like recipes.
+Tab Navigation:
 
-### CRUD Operations
+Allows switching between different sections: home, upload, scan, notifications, and profile.
+State Management:
 
-#### Recipe Management
-- ✅ **Create**: Upload a new recipe with image and details.
-- ✅ **Read**: Display a list of all recipes on the Home page.
-- ✅ **Like (Create)**: Ability to like a recipe.
-- ✅ **Liked Recipes (Read)**: Display a list of liked recipes on the *Liked Page*.
-- ✅ **Unlike (Delete)**: Allow the user to remove liked recipes.
+Utilizes BLoC (Business Logic Component) pattern for managing states across the app, including user authentication and recipe likes.
+
+## Technologies Used
+
+Flutter for cross-platform mobile development.
+Dart as the programming language.
+Provider and BLoC for state management.
+Various packages for UI components and functionalities (e.g., image picker, dotted border).
+
+## ⚙️ Setup Instructions
+
+Clone the repository: Use the command line: git clone <Your Repository Path>
+
+Install dependencies: Make sure you have Flutter installed. Then run: flutter pub get
+
+Run the app: You can launch the app using: flutter run
+
+Note: You need a working emulator or a connected real device
 
 
+## 📱Screen Design Overview
 
----
+### Onboarding Screen
 
-## 📱 Interface Requirements
+![alt text](ScreenShout/image.png)
 
-- The app must implement **all user interface screens** as designed in the Figma file.
-- All listed functionality must be **fully working** and integrated with the UI.
-- State management should be implemented using **BLoC**.
+### Login Screen
 
----
+![alt text](ScreenShout/image-1.png)
 
-## 💻 GitHub Submission Guidelines
+### SignUp Screen
 
-1. 📂 Your pull request should include:
-   - A **well-structured README** file.
-   - **screenshot** showing the app UI.
+![alt text](ScreenShout/image-2.png)
 
-2. 🕘 **Deadline**:
-   - Submit your project **before 10:00 AM on May 25**.
+### Home Screen
 
----
+![alt text](ScreenShout/image-3.png)
 
-## 🚀 Good Luck & Happy Coding!
+### Profile Screen
 
-We’re excited to see your creative and clean implementation using Flutter and BLoC! 💙
+![alt text](ScreenShout/image-4.png)
 
+### Liked Food 
+
+![alt text](ScreenShout/image-5.png)
+
+### Show Liked Food 
+
+![alt text](ScreenShout/image-6.png)
+
+### Upload Recipe Screen
+
+![alt text](ScreenShout/image-7.png)
+
+### Upload  success Screen
+
+![alt text](ScreenShout/image-8.png)
+
+### My profile Screen After added Recipe
+
+![alt text](ScreenShout/image-9.png)
+
+### My profile Screen After added Recipe To Liked
+
+![alt text](ScreenShout/image-10.png)
